@@ -1,0 +1,7 @@
+length_of_stay_range,num_stays,percentage
+1 day,1099,96.8
+2-3 days,8,0.7
+4-7 days,11,1.0
+8-14 days,14,1.2
+15-30 days,1,0.1
+30+ days,2,0.2

@@ -1,0 +1,7 @@
+ENCOUNTERCLASS,num_encounters,avg_cost,min_cost,max_cost
+inpatient,1135,7761.35,0.00,309748.16
+urgentcare,3666,6369.16,142.58,47998.67
+emergency,2322,4629.65,0.00,641882.70
+wellness,1931,4260.71,0.00,65633.22
+ambulatory,12537,2894.11,0.00,65318.86
+outpatient,6300,2237.30,85.55,43321.62
